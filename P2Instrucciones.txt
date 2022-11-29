@@ -1,0 +1,17 @@
+Proyecto 2: Raytracer
+
+Jose Andres Hernandez Guerra 20053
+
+Deben escoger una escena, un paisaje o una foto de la naturaleza que les guste. 
+Traten de replicar esta fotografía utilizando solo figuras geométricas simples y utilizando raytracing.
+
+Para ejecutar el programa porfavor abrir el directorio y ejecutar el modulo de la siguiente manera:
+
+python .\main.py parametroWith parametroHeight
+
+Los parametros de width y height definidos para este proyecto son 500 por 500:
+
+python .\main.py 500 500
+
+El resultado del render se ubica en la carpeta build. Si se desea correr el programa este cuenta con una progress bar para mantener
+una idea de cuanto del programa se ha procesado.
